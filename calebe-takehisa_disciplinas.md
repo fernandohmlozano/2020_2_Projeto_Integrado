@@ -1,4 +1,12 @@
-### Importância de cada disciplina para a OPE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fernandohmlozano/2020_2_Projeto_Integrado/calebe-takehisa_visao_inicial/images/logo_impacta.jpg">
+</p>
+
+**Professor:** *Thiago Kuma*   
+**Disciplina:**  *Ambiente de Desenvolvimento*  
+**AC1** 
+
+#### Importância de cada disciplina para a OPE
 
 * **Linguagem SQL:**  
 Aprendizado da linguagem SQL para servir como base da criação do software.
