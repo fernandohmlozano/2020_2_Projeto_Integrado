@@ -11,4 +11,6 @@
 **AC1** 
 
 ### Integrantes
+* **Nome:** Aline de Rosa Lima  **RA:** 1902588    
+* **Nome:** Fernando Henrique Mariano Lozano  **RA:** 1903437  
 * **Nome:** José Calebe de França Takehisa  **RA:** 1903621  
